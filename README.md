@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Cnlistor
-- 👀 I’m interested in C/C++
-- 🌱 I’m currently learning Oracle
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 👋 Hi, I’m listor, I'm new coder!
+- 👀 I’m interested in C/C++.
+- 🌱 I’m currently learning Coding used C++ !
+- 💞️ You can leave messages for me, thank you!
 
 <!---
 Cnlistor/Cnlistor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
