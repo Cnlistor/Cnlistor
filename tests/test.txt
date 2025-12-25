@@ -1,0 +1,4 @@
+mkdir build && cd build
+cmake .. -DBUILD_TESTS=ON
+make
+./tests/flextools_tests
